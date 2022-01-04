@@ -1,0 +1,2 @@
+O git é um sistema opensource de versionamento e controle de projetos.
+O que possibilita acesso aos seus projetos de qualquer lugar desde que estejam no gitHub, ou mesmo a participação de um terceiro na contribuição do mesmo.
