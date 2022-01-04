@@ -1,0 +1,1 @@
+Repositório com arquivos de texto com conteudos explicativos, alguns conceitos e comandos de git e sua utilização com o gitHub.
