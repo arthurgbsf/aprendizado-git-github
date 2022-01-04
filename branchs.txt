@@ -1,0 +1,6 @@
+git branch --> Mostra a árvore do diretorio.
+git branch [nome do diretorio] --> Cria um subdiretorio dentro de master com o nome passado após o 'branch'.
+git branch -d [nome do diretorio] --> Deleta o diretorio passado como parametro.
+git checkout [nome do diretorio] --> Muda para o diretorio o qual foi passado no comando.
+git checkout -b [nome do diretorio] --> Cria o diretorio passado no comando e já muda para o mesmo.
+git merge [nome do diretório a ser cópiado] --> Dentro do diretorio o qual deseja que os arquivos sejam atualizados, passe o comando descrito.

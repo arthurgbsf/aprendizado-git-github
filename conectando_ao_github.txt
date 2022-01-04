@@ -1,0 +1,15 @@
+Existe duas formas de conectar o seu projeto ao gitHub:
+1 - Crie um repositorio no gitHub e clone o mesmo para máquina com o seguintes comandos:
+    git clone [url do repositorio];
+Desta forma o git e o gitHub já estão linkados.
+
+2 - Crie um repositorio local e depois suba para o git utilizando os passos abaixo:
+    1 - Inicie o git dentro do diretorio local (git init);
+    2 - Inicie a branch master, para fazer isto primeiro e necessário criar o primeiro arquivo do projeto e realizar um commit do mesmo localmente;
+    3 - Crie um repositorio no gitHub;
+    4 - Link o repositorio local com o do gitHub com os seguintes comandos:
+        git remote add origin [url do repositorio do gitHub]
+    5 - Para dar um push(fazer um upload para o gitHub) nas alterações locais, basta rodar o comando:
+         git push origin master.
+    6 - Para dar pull nas alterações feitas no gitHub(Atualizar os arquivos da pasta local) basta rodar o comando:
+        git pull origin master.  

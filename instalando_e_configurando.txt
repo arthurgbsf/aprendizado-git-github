@@ -1,0 +1,5 @@
+Instando o git --> Dentro do terminal entre como adm e utilize o comando apt-get install git.
+Configurando  o git -->  Passe o comando 'git config --global user.name='Nome de usuario' user.mail='Email', desta forma o git configurará o git com as configurações globais.
+    git config -->  Este comando mostra uma lista com as opções de configuração.
+    git config --list --> Mostra uma lista com as configurações feitas.
+Iniciando o git --> No repositorio o qual deseja trabalhar utilize o comando 'git init'.
